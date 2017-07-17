@@ -1,0 +1,55 @@
+.btn-group, .input-group {
+  margin-bottom: 10px;
+}
+
+#item {
+  border: 2px solid black;
+}
+
+#logo {
+  height: 150px;
+}
+
+#output {
+  margin-bottom: 50px;
+}
+
+a {
+  color: black;
+}
+
+#online {
+  background: #c1ffc4;
+}
+
+#offline {
+  background: #ffc1c1;
+}
+
+#notFound {
+  background: grey;
+}
+
+body {
+  background: #823cc1;
+}
+
+h1 {
+  font-family: 'Anton', sans-serif;
+  font-size: 500%;
+  color: white;
+}
+
+ul.ui-autocomplete.ui-menu {
+  background: white;
+  width: 400px;
+  list-style: none;
+}
+
+.ui-helper-hidden-accessible {
+  display: none !important;
+}
+
+.ui-autocomplete li.ui-menu-item:hover {
+    background: grey;
+}
